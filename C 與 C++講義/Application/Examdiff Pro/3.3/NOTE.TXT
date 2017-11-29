@@ -1,0 +1,2 @@
+setup.exe is a self-extracting setup program for ExamDiff Pro
+installation. It also creates an Uninstall shortcut.

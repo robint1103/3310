@@ -1,0 +1,74 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(void) 
+	{
+	printf("Hello Every One, Welcome to the C World!\n");
+	system("pause\n");
+		char x1='a';
+		char x2='b';
+		char x3='n';
+		printf("%c%c%c%c%c%c\n",x2,x1,x3,x1,x3,x1);
+		system("pause\n");
+		 	int i1=0;
+		 	int i2=0;
+		 	int i3=1;
+			for(1;i1<50 ;+1)
+			{
+				
+				i2=i2+i3;
+				i3=i3+2;
+				i1=i1+1;
+			 } 
+			 printf("答案=%d\n",i2);
+			 system("pause\n");
+			 	int i4=1;
+			 	int i5=0;
+			 	for(1;i4<11  ;+1)
+			 	{
+			 		i5=i4*i4+i5;
+			 		i4=i4+1; 
+				 }
+				 printf("答案=%d\n",i5);
+	return 0;
+	}
+
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+int main(void) 
+	{
+	printf("Hello Every One, Welcome to the C World!\n");
+	system("pause\n");
+		char x1='a';
+		char x2='b';
+		char x3='n';
+		printf("%c%c%c%c%c%c\n",x2,x1,x3,x1,x3,x1);
+		system("pause\n");
+		 	int i1=0;//執行次數
+		 	int i2=0;//計算出的答案
+		 	int i3=1;
+			for(1;i1<50 ;+1)
+			{
+				
+				i2=i2+i3;
+				i3=i3+2;
+				i1=i1+1;
+				printf("i1=%d\n",i1);
+				printf("i2=%d\n",i2);
+				printf("i3=%d\n",i3);
+			 } 
+			 system("pause\n");
+			 	int i4=1;
+			 	int i5=0;
+			 	for(1;i4<11  ;+1)
+			 	{
+			 		i5=i4*i4+i5;
+			 		i4=i4+1; 
+			 		printf("i4=%d\n",i4);
+			 		printf("i5=%d\n",i5);
+				 }
+	return 0;
+	}

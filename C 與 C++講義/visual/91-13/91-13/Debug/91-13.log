@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+c:\student\c 與 c++\visual\91-13\91-13\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\student\c 與 c++\visual\91-13\91-13\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\student\c 與 c++\visual\91-13\91-13\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ee1.cpp
+  9113.cpp
+c:\student\c 與 c++\visual\91-13\91-13\9113.cpp(8): error C2065: 'i1': 未宣告的識別項
+c:\student\c 與 c++\visual\91-13\91-13\9113.cpp(10): error C2065: 'i1': 未宣告的識別項
+c:\student\c 與 c++\visual\91-13\91-13\9113.cpp(11): error C3861: 'system': 找不到識別項
+c:\student\c 與 c++\visual\91-13\91-13\9113.cpp(12): error C2143: 語法錯誤: 遺漏 ';' (在 '}' 之前)
+  正在產生程式碼...
